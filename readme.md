@@ -1,30 +1,26 @@
-# This is a large heading
+# Soumen Ghosh
 
-## This is a smaller heading
+### Geography
 
-And as **imagination** bodies forth,
-The forms of things *unknown*, the poet’s pen,
-Turns them to shapes and gives to airy nothing,
-A local *habitation* and a **name**.
+I live in Brisbane, in the state of Queensland, in the Australia
+of America.
 
-- This is
-- an unordered
-- list
+### Reading
 
-1. This is
-2. an ordered
-3. list
+Three of my favorite books are:
 
-Here is `some code` in the middle of a sentence.
+- *Mindstorms* by Seymour Papert
+- *Welcome to the Monkey House* by Kurt Vonnegut
+- *Persepolis* by Marjane Satrapi
 
-```
-This is
-a block
-of code
-```
+### Food
 
-Here is how you make [a link](https://www.wikipedia.org/).
+Last night I dreamt about eating in these restaurants:
 
-![This is an image.](https://57cf0431-a-62cb3a1a-s-sites.googlegroups.com/site/soumenca/home/IMG_0099.JPG?attachauth=ANoY7cqTkMFKvhRt_0EEIYdNOwVMIlE4tPGfX-WnDN94fjRiVqssOgAgpmgaDyKWfgKd7clGRzi8sSHsopY5Hbp4XsvWS5bmqywPVLuFpewCjdWC97RUuFoFXp9HHsUt1CKqdVdOMyk7hyjfvHU-UNsDwT86VCL6KgWA-heWP-6bSfFr1qqfYpCzirCrzulEC4CWOGcTJj9I7i7_lhMnXGQW3bO_pPadOw%3D%3D&attredirects=0)
+1. Linger in Denver.
+2. Azura in Jerusalem.
+3. Gemma in New York City.
 
-nano README.md
+### Contact
+
+The best way to get in touch with me is [on Twitter](https://twitter.com/seankross).
